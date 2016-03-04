@@ -1,7 +1,7 @@
 name: Pegg
 favicon: null
-layout_spectrum: 0.8936243685893714
-typography_spectrum: 0.1834978696424514
+layout_spectrum: 0.87017
+typography_spectrum: 0.16164
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.10599292814731598
+    - '#e6e5ed'
+    - '#2e3067'
+    - '#648d99'
+    - '#7dd30e'
+    - '#e04940'
+  brandStrength: 0.5
   lightness: 0.7616488756611943
   saturation: 0.5221500240731984
   rhythmicContrast: 0.28576763113960624
