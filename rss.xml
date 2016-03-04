@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pegg]]></title>
         <description><![CDATA[Pegg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pegg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 16:23:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 16:29:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pegg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17cf6b55-016a-4f2a-a8ff-975aebac1b59.jpg">]]></description>
-            <link>undefined9ecb7419-a916-4f74-a570-2e4176b6b2cc/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b83fe4-a67d-45ee-98ad-33ef1723c880.png">]]></description>
+            <link>https://thegrid.ai/pegg/9ecb7419-a916-4f74-a570-2e4176b6b2cc/index.html</link>
             <guid isPermaLink="false">9ecb7419-a916-4f74-a570-2e4176b6b2cc</guid>
-            <pubDate>Fri, 04 Mar 2016 16:23:23 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 16:29:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
