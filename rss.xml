@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pegg]]></title>
         <description><![CDATA[Pegg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pegg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 16:56:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 07:39:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pegg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It's time to tell our story I’m a young idealist. Well, these days not so young and much more of a realist… nonetheless I’m still that young idealist I was when I was a 10. I’m still that kid who tried to build a weapon to help America in the Gulf War, and tried to learn...</p>]]></description>
+            <link>https://thegrid.ai/pegg/its-time-to-tell-our-story-im-a-young-idealist-well-thes/index.html</link>
+            <guid isPermaLink="false">fb261764-fab4-4174-9ea6-4d239937d884</guid>
+            <pubDate>Sun, 06 Mar 2016 07:39:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b83fe4-a67d-45ee-98ad-33ef1723c880.png">]]></description>
-            <link>undefined9ecb7419-a916-4f74-a570-2e4176b6b2cc/index.html</link>
+            <link>https://thegrid.ai/pegg/9ecb7419-a916-4f74-a570-2e4176b6b2cc/index.html</link>
             <guid isPermaLink="false">9ecb7419-a916-4f74-a570-2e4176b6b2cc</guid>
             <pubDate>Fri, 04 Mar 2016 16:56:43 GMT</pubDate>
         </item>
